@@ -1,0 +1,15 @@
+Plano de Testes - Camada de Negócios (GerenciadorMidia)
+
+1. Objetivo
+Validar comportamento correto das operações CRUD, persistência e manipulação de arquivos.
+
+2. Casos de teste principais
+- Adicionar mídia válida (Filme/Música/Livro) -> deve ser adicionada na lista e persistida no CSV; .tpoo gerado com campo Tamanho.
+- Adicionar mídia duplicada -> lançar MidiaJaCadastradaException.
+- Remover mídia -> remove da lista, do CSV e apaga .tpoo associado.
+- Editar mídia -> altera campos e persiste alterações.
+- Mover mídia -> arquivo físico movido, local atualizado e CSV persistido.
+- Renomear mídia -> arquivo físico renomeado, local persistido.
+- Listagens/Filtragem -> getMidiasFiltradas retorna conforme filtros combinados.
+- Persistência -> reabrir GerenciadorMidia carrega corretamente mídias do CSV com o campo Tamanho.
+- Validações -> campos obrigatórios e formatos.
