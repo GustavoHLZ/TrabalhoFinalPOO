@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/Visao/TelaPrincipal.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/Modelo/Livro.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/Modelo/GerenciadorMidia.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/Controle/MidiaController.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/excecoes/FormatoNaoSuportadoException.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/excecoes/ExcecaoCampoException.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/excecoes/ExcecaoArquivoNaoExisteException.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/excecoes/ErroPersistenciaException.java</file>
+            <file>file:/C:/Users/Gusluiz/Desktop/ExploradorArquivosPOO/ExploradorArquivosPOO/src/Modelo/Midia.java</file>
+        </group>
+    </open-files>
+</project-private>
